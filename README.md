@@ -1,1 +1,1 @@
-# imnepoland_plugin
+# Integrated Monitoring of the Natural Environment in Poland plugin
