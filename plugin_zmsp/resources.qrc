@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/plugin_zmsp" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
