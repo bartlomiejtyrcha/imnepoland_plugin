@@ -189,6 +189,7 @@ class PluginZMSP:
             self.first_start = False
             self.dlg = PluginZMSPDialog()
 
+
         # show the dialog
         self.dlg.show()
         # Run the dialog event loop
@@ -198,3 +199,6 @@ class PluginZMSP:
             # Do something useful here - delete the line containing pass and
             # substitute with your code.
             pass
+
+
+
