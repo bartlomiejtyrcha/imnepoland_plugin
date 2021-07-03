@@ -22,7 +22,7 @@
     </widget>
    </item>
    <item>
-    <widget class="QComboBox" name="StacjaBazowa"/>
+    <widget class="QComboBox" name="BaseStation"/>
    </item>
    <item>
     <widget class="QLabel" name="pp_tekst">
@@ -32,7 +32,7 @@
     </widget>
    </item>
    <item>
-    <widget class="QComboBox" name="ProgramPomiarowy"/>
+    <widget class="QComboBox" name="Program"/>
    </item>
    <item>
     <widget class="QLabel" name="parametr_tekst">
@@ -42,7 +42,7 @@
     </widget>
    </item>
    <item>
-    <widget class="QComboBox" name="Parametr"/>
+    <widget class="QComboBox" name="Parameter"/>
    </item>
    <item>
     <widget class="QLabel" name="label_4">
@@ -52,7 +52,7 @@
     </widget>
    </item>
    <item>
-    <widget class="QComboBox" name="Rok"/>
+    <widget class="QComboBox" name="Year"/>
    </item>
    <item>
     <widget class="QDialogButtonBox" name="buttonBox">
